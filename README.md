@@ -7,6 +7,12 @@
 
 # INSTALL
 ```php
+Note : KALAU TERMUX ORI PLAYSTORE KUDU UBAH REPO DULU.
+CARA UBAHNYA.
+$ termux-change-repo
+Nah terus centang semua, yg pilihan kedua pilih BSFU.
+Udh deh bisa
+Lanjut cara bawah!!
 $ pkg update && pkg upgrade
 $ pkg install python
 $ pkg install git
